@@ -1,6 +1,6 @@
-# Research Papers and Metrics
+# Voice COnversion Papers with Links
 
-This repository contains an overview of research papers and their associated metrics.
+This repository contains an overview of voice conversion and some voice cloning research papers and the links to their paper and/or code repositories.
 
 | Title | Conf. Name | Link | Description | Repo |
 |-------|------------|------|-------------|------|
